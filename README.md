@@ -8,6 +8,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C1en1202&layout=donut)
 
-### 🏆Honor trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=C1en1202)
