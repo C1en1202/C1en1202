@@ -1,16 +1,13 @@
-## Hi there 👋
+![](https://count.getloli.com/get/@C1en1202?theme=gelbooru)
 
-<!--
-**C1en1202/C1en1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
 
-Here are some ideas to get you started:
+![Molanp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C1en1202&show_icons=true&text_color=36c9bc&title_color=36c9bc&icon_color=36c9bc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📎Common language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C1en1202&layout=donut)
+
+### 🏆Honor trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=C1en1202)
