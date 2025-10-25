@@ -8,4 +8,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C1en1202&layout=donut)
 
-![C1en1202](https://github-readme-stats.vercel.app/api?username=C1en1202&show_icons=true&count_private=true&hide=prs,issues)
