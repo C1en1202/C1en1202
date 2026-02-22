@@ -34,7 +34,7 @@ jobs:
           committer_gist: [Gist sha]
 
           # Options
-          user: 360NENZ
+          user: C1en1202
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -53,7 +53,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
-          committer_gist: fb75b98207af1286b655aa2ef1ef2386
+          committer_gist: [Gist sha]
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
